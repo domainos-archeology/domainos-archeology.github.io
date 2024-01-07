@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[858],{6305:e=>{e.exports=JSON.parse('{"title":"Hardware","slug":"/category/hardware","permalink":"/docs/category/hardware","navigation":{"previous":{"title":"MAME","permalink":"/docs/emulation/software/mame"},"next":{"title":"Keyboards","permalink":"/docs/emulation/hardware/keyboards"}}}')}}]);
