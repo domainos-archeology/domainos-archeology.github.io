@@ -38,9 +38,9 @@ const config: Config = {
         docs: {
           sidebarPath: "./sidebars.ts",
         },
-        blog: {
-          showReadingTime: true,
-        },
+        // blog: {
+        //   showReadingTime: true,
+        // },
         theme: {
           customCss: "./src/css/custom.css",
         },
@@ -64,7 +64,7 @@ const config: Config = {
           position: "left",
           label: "Docs",
         },
-        { to: "/blog", label: "Blog", position: "left" },
+        // { to: "/blog", label: "Blog", position: "left" },
         {
           href: "https://github.com/domainos-archeology",
           label: "GitHub",
