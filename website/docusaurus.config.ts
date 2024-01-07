@@ -67,6 +67,11 @@ const config: Config = {
         },
         // { to: "/blog", label: "Blog", position: "left" },
         {
+          label: "Contributing",
+          to: "/docs/contributing",
+          position: "right",
+        },
+        {
           href: "https://github.com/domainos-archeology",
           label: "GitHub",
           position: "right",
