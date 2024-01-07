@@ -66,7 +66,7 @@ const config: Config = {
         },
         { to: "/blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/domainos-archology",
+          href: "https://github.com/domainos-archeology",
           label: "GitHub",
           position: "right",
         },
