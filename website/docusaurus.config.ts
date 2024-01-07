@@ -55,7 +55,8 @@ const config: Config = {
       title: "Domain/OS Archeology",
       logo: {
         alt: "Apollo Logo",
-        src: "img/apollo.png",
+        src: "img/apollo-light-transparent.png",
+        srcDark: "img/apollo-dark-transparent.png",
       },
       items: [
         {

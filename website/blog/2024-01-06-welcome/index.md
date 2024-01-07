@@ -5,4 +5,4 @@ authors: [toshok, vvuk]
 tags: [hello, apollo]
 ---
 
-![Apollo Logo](/img/apollo.png)
+![Apollo Logo](/img/apollo-dark.png)
